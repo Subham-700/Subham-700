@@ -22,9 +22,6 @@
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=subham-gupta700&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
-
 </div>
 
 ---
