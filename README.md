@@ -14,24 +14,16 @@
 
 <br/><br/>
 
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/yourusername/">
+<a href="https://www.linkedin.com/in/subham-gupta700/">
 <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:subhamkumargupta1234@gmail.com">
 <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=4F46E5&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=7C3AED&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=subham-gupta700&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
 
 </div>
 
